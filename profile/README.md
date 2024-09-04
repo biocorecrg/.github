@@ -1,6 +1,6 @@
 ## CRG's Biocore GitHub 
 
-Welcome to the CRG Bioinformatics Core GitHub! We provide researchers with services of analyses of high-throughput sequencing (NGS, Nanopore, droplet-based) and other biomedical data, software/pipelines and database development, and bioinformatics training. We focus on delivering reproducible results using modern computational solutions (NextFlow, Cloud, Linux containers).
+Welcome to the CRG Bioinformatics Core GitHub! We provide researchers with services of analyses of high-throughput sequencing (NGS, Nanopore, droplet-based) and other biomedical data, software/pipelines and database development, and bioinformatics training. We focus on delivering reproducible results using modern computational solutions (Nextflow, Cloud, Linux containers).
 
 Website: https://biocore.crg.eu/
 
